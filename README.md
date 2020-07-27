@@ -1,5 +1,5 @@
 # UMDCTF-2020-Writeups
-Write-Ups for WittsEnd2 Challenges for UMDCTF
+Write-Ups for WittsEnd2 Challenges for UMDCTF - This is a work in progress. More will come as more are written.
 
 ## Exploitation
 
